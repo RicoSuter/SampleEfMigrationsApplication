@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleEfMigrationsApplication", "SampleEfMigrationsApplication\SampleEfMigrationsApplication.csproj", "{E1398BBE-C610-4A00-A25B-5740B0F6C87D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleEfMigrationsApplication.Data", "SampleEfMigrationsApplication.Data\SampleEfMigrationsApplication.Data.csproj", "{B1F7DE75-93E0-40FB-897C-2A05C97B7E8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1398BBE-C610-4A00-A25B-5740B0F6C87D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1398BBE-C610-4A00-A25B-5740B0F6C87D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1398BBE-C610-4A00-A25B-5740B0F6C87D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1398BBE-C610-4A00-A25B-5740B0F6C87D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1F7DE75-93E0-40FB-897C-2A05C97B7E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1F7DE75-93E0-40FB-897C-2A05C97B7E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1F7DE75-93E0-40FB-897C-2A05C97B7E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1F7DE75-93E0-40FB-897C-2A05C97B7E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
